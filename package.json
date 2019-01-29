@@ -1,0 +1,33 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "devDependencies": {
+    "browser-sync": "^2.23.6",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-cache": "^1.0.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-csso": "^3.0.1",
+    "gulp-html-prettify": "0.0.1",
+    "gulp-imagemin": "^4.0.0",
+    "gulp-nunjucks-render": "^2.2.1",
+    "gulp-pug": "^3.3.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglifyjs": "^0.6.2",
+    "gulp-util": "^3.0.8",
+    "imagemin-jpeg-recompress": "^5.1.0",
+    "imagemin-pngquant": "^6.0.0",
+    "main-bower-files": "^2.13.1",
+    "vinyl-ftp": "^0.6.0"
+  },
+  "dependencies": {
+    "bower": "^1.8.4",
+    "i": "^0.3.6"
+  },
+  "resolutions": {
+    "natives": "1.1.3"
+  }
+}

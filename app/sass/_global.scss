@@ -1,0 +1,47 @@
+// GLOBAL
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  background: #fff;
+  color: #000;
+  font-family: "sans-serif";
+  font-size: 16px;
+  min-height: 100%;
+  overflow-x: hidden;
+  position: relative;
+}
+
+.body_active {
+  overflow: hidden;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ol,
+ul {
+  margin: 0;
+}
+
+input,
+textarea {
+  background: none;
+  border: none;
+  outline: none;
+  position: relative;
+}
+
+textarea {
+  resize: none;
+}
