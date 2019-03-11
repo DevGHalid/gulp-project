@@ -180,6 +180,8 @@ gulp.task("build", ALL_TASK, function() {
 
 // DEPLOY
 
+//test tag
+
 gulp.task("deploy", function() {
   var dir = "ksr.rasel.site",
     conn = ftp.create({
