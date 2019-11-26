@@ -2,7 +2,7 @@
   "name": "project",
   "version": "1.0.0",
   "devDependencies": {
-    "browser-sync": "^2.23.6",
+    "browser-sync": "^2.26.7",
     "del": "^3.0.0",
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^4.0.0",
@@ -13,7 +13,6 @@
     "gulp-html-prettify": "0.0.1",
     "gulp-imagemin": "^4.0.0",
     "gulp-nunjucks-render": "^2.2.1",
-    "gulp-pug": "^3.3.0",
     "gulp-rename": "^1.2.2",
     "gulp-sass": "^3.1.0",
     "gulp-uglifyjs": "^0.6.2",
