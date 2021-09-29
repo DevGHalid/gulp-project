@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "bower": "^1.8.4",
-    "i": "^0.3.6"
+    "i": "^0.3.7"
   },
   "resolutions": {
     "natives": "1.1.3"
